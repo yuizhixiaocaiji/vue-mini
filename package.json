@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yuizhixiaocaiji/vue-mini/issues"
   },
-  "homepage": "https://github.com/yuizhixiaocaiji/vue-mini#readme"
+  "homepage": "https://github.com/yuizhixiaocaiji/vue-mini#readme",
+  "devDependencies": {
+    "rollup": "^4.13.2"
+  }
 }
