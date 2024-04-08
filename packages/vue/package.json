@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@vue-mini/compiler-core": "workspace:^1.0.0",
+    "@vue-mini/runtime-dom": "workspace:^1.0.0",
+    "@vue-mini/shared": "workspace:^1.0.0"
+  }
 }
