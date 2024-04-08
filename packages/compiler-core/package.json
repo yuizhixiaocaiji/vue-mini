@@ -1,0 +1,11 @@
+{
+  "name": "@vue-mini/compiler-core",
+  "version": "1.0.0",
+  "description": "@vue-mini/compiler-core",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

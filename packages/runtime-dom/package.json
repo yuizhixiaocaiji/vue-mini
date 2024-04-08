@@ -1,0 +1,12 @@
+{
+  "name": "@vue-mini/runtime-dom",
+  "version": "1.0.0",
+  "description": "@vue-mini/runtime-dom",
+  "module": "dist/shared.esm-bundler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
