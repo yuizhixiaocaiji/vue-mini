@@ -1,3 +1,5 @@
+import { ElementTypes, NodeTypes } from "./ast";
+
 const enum TagType {
   Start,
   End,
